@@ -2,7 +2,7 @@
 
 <div id="hook"/><!-- LEAVE THIS ALONE -->
 
-GenBank <sup>®</sup> is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences ([_Nucleic Acids Research_, 2013 Jan;41(D1):D36-42](/pubmed/23193287)). GenBank is part of the [International Nucleotide Sequence Database Collaboration](/genbank/collab) , 
+GenBank <sup>®</sup> is the NIH genetic sequence database, and an annotated collection of all publicly available DNA sequences ([_Nucleic Acids Research_, 2013 Jan;41(D1):D36-42](/pubmed/23193287)). GenBank is part of the [International Nucleotide Sequence Database Collaboration](/genbank/collab) , 
 
 We worked on a solar system project, and you can read
 about it [here](http://nicolausmaloney.org/)
